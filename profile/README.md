@@ -1,1 +1,1 @@
-メンバー専用の<a>ページ</a>で詳細を確認ください
+メンバー専用の<a href="https://github.com/unicorn-21/00_Template">ページ</a>で詳細を確認ください
